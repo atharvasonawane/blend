@@ -1,0 +1,3 @@
+npx expo start --tunnel  //To force start
+npx expo start          //TO START THE DEVELOPMENT SERVER
+npx create-expo-app@latest ./       //TO CREATE EXPO PROJECT
